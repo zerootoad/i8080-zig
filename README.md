@@ -4,12 +4,12 @@ A intel8080 emulator written in zig.
 yeah comeback later this is still being worked on
 
 # Todo
--[] finish the instructions
--[x] better debugging
--[] maybe debugging ui?
--[] assembler and disassembler maybe???
--[] add more test roms
--[] implement a gui
+- [ ] finish the instructions
+- [x] better debugging
+- [ ] maybe debugging ui?
+- [ ] assembler and disassembler maybe???
+- [ ] add more test roms
+- [ ] implement a gui
 
 # Resources
 http://dunfield.classiccmp.org/r/8080asm.pdf
