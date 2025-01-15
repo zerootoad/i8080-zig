@@ -10,7 +10,7 @@ yeah comeback later this is still being worked on
 - [ ] assembler and disassembler maybe???
 - [ ] add more test roms
 - [ ] implement a gui
-- [ ] a well documented blog post on how i built this
+- [ ] a well documented blog post on how i made this
 
 # Resources
 http://dunfield.classiccmp.org/r/8080asm.pdf
